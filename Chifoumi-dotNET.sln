@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chifoumi-C#", "Chifoumi-dotNET\Chifoumi-C#.csproj", "{C0CEEC69-1714-4D25-9D5F-9471301AA846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0CEEC69-1714-4D25-9D5F-9471301AA846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CEEC69-1714-4D25-9D5F-9471301AA846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CEEC69-1714-4D25-9D5F-9471301AA846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CEEC69-1714-4D25-9D5F-9471301AA846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CD88D6-EAEB-4D2E-BF5C-517448E28815}
+	EndGlobalSection
+EndGlobal
