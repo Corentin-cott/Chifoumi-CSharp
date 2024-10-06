@@ -61,9 +61,9 @@ class Program
             return "Égalité!"; // Cas d'égalité
         }
 
-        if ((joueur == "Pierre" && Adversaire == "Ciseaux") ||  // Pierre bat Ciseaux
-            (joueur == "Papier" && Adversaire == "Pierre") ||  // Papier bat Pierre
-            (joueur == "Ciseaux" && Adversaire == "Papier"))    // Ciseaux bat Papier
+        if ((choixJoueur == "Pierre" && choixAdversaire == "Ciseaux") ||  // Pierre bat Ciseaux
+            (choixJoueur == "Papier" && choixAdversaire == "Pierre") ||  // Papier bat Pierre
+            (choixJoueur == "Ciseaux" && choixAdversaire == "Papier"))    // Ciseaux bat Papier
         {
             return "Vous avez gagné!";
         }
